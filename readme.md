@@ -1,4 +1,3 @@
-# Sure, here is a README.md file for your project:
 # RAG-Based Smart Course Search
 
 This project is a RAG (Retrieval-Augmented Generation) based smart course search tool. It allows users to search for courses using natural language queries and provides contextualized responses. The tool is built using Streamlit, LangChain, and various other libraries.
