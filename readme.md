@@ -14,8 +14,7 @@ This project is a RAG (Retrieval-Augmented Generation) based smart course search
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/sasank-sasi/VidhyaQuest
 
 # Create a virtual environment and activate it:
 
